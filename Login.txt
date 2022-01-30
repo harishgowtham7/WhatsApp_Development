@@ -12,3 +12,6 @@ Author: Harish
 
 5.Hiding the last seen
 
+6.Adding the auido call feature
+
+7. Adding the video call feature
