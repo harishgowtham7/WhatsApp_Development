@@ -1,2 +1,2 @@
-# WhatsApp_Development
+# Sample
 This repository is to develop a chat application
